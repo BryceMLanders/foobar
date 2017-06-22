@@ -25,7 +25,7 @@ SECRET_KEY = '7^b^@lm)+t48(d+^4v=e%ql)xfx_$k$a)zr#hq!8seu8y-4w(5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["rocky-plateau-92634.herokuapp.com", "127.0.0.1"]
 
 
 # Application definition
